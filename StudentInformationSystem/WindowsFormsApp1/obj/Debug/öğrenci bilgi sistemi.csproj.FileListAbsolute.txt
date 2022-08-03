@@ -1,0 +1,24 @@
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\öğrenci bilgi sistemi.csproj.AssemblyReference.cache
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\öğrenci bilgi sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDashBoard.resources
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\öğrenci bilgi sistemi.csproj.GenerateResource.cache
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\öğrenci bilgi sistemi.csproj.CoreCompileInputs.cache
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bersu\OneDrive\Masaüstü\c# dersleri\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\öğrenci bilgi sistemi.csproj.AssemblyReference.cache
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\öğrenci bilgi sistemi.csproj.SuggestedBindingRedirects.cache
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDashBoard.resources
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\öğrenci bilgi sistemi.csproj.GenerateResource.cache
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\öğrenci bilgi sistemi.csproj.CoreCompileInputs.cache
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kaydol.resources
+D:\c# dersleri\Öğrenci Bilgi Sistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Güncelle.resources
